@@ -2,7 +2,7 @@
 
 A implementação da metodologia NPN (Nível de Pré-Natal) no âmbito da SEMSA/Manaus constituiu uma experiência aplicada de modelagem computacional orientada à avaliação contínua da adequação do cuidado pré-natal na Atenção Primária à Saúde. 
 
-O modelo foi estruturado a partir da construção de uma matriz de peso elaborada conjuntamente com especialistas em saúde da rede municipal, incluindo Gerda Coêlho da Costa e Lúcia Marques de Freitas, do Departamento de Atenção Primária (DAP – Saúde da Mulher), e Lana de Lourdes Aguiar Lima, ginecologista obstetra vinculada à SUBGS (Subsecretaria de Gestão da Saúde). A participação técnica dessas profissionais permitiu converter critérios clínicos e assistenciais do pré-natal em parâmetros quantitativos normalizados, compatíveis com sistemas de monitoramento e análise preditiva.
+O modelo foi estruturado a partir da construção de uma matriz de peso elaborada conjuntamente com especialistas em saúde da rede municipal, incluindo [Omitido para não identificação de autor]. A participação técnica dessas profissionais permitiu converter critérios clínicos e assistenciais do pré-natal em parâmetros quantitativos normalizados, compatíveis com sistemas de monitoramento e análise preditiva.
 
 A metodologia NPN foi concebida como um sistema de Sensores Virtuais, definidos por software, capazes de sintetizar múltiplas variáveis discretas do cuidado pré-natal em indicadores contínuos e comparáveis. O processo metodológico opera em seis camadas integradas: 
 1. Especificação do padrão esperado de cuidado conforme idade gestacional; 
